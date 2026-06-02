@@ -2,7 +2,7 @@ Dear NeseOS fans. We're working to migrate ElvinX to RavanaX (due to recent name
 
 # What happens?
 
-The ElvinX version will continue to run through November 11, 2026. After November 11th, 2026, any "ElvinX/" useragent matched will be discontinued. After discontinued, you need to migrate ElvinX to RavanaX by upgrading current version to latest version that includes RavanaX pre-installed. 
+The ElvinX version will continue to run through November 11, 2026. After November 11th, 2026, any "ElvinX/" useragent matched will be discontinued (the "ElvinX/1.0" useragent matched will be discontinued on July 15, 2026). After discontinued, you need to migrate ElvinX to RavanaX by upgrading current version to latest version that includes RavanaX pre-installed. 
 
 # Which operating system version that will be supported?
 
